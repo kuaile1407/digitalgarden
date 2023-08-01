@@ -4,6 +4,7 @@
 
 - 1
 	- [[3 项目/Datawhale/lightGBM的数学原理\|lightGBM的数学原理]]
+	- [[3 项目/Datawhale/Datawhale\|Datawhale]]
 	- fff
 	- ss
 - 2
