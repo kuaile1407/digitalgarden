@@ -1,5 +1,5 @@
 ---
-{"title":"Home","dg-home":"true","dg-publish":true,"permalink":"/Home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"2023-11-07T00:27:44.500+08:00","updated":"2023-12-27T17:05:02.000+08:00"}
+{"title":"Home","dg-home":"true","dg-publish":true,"permalink":"/Home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"2023-11-07T00:27:44.500+08:00","updated":"2023-12-29T00:23:36.000+08:00"}
 ---
 
 ## 学习
@@ -12,5 +12,24 @@
 
 - [[书签\|书签]]
 - [[B站收藏\|B站收藏]]
+
+
+```contributionGraph
+title: Contributions
+graphType: calendar
+query: '""'
+days: 180
+startOfWeek: 0
+showCellRuleIndicators: true
+titleStyle:
+  textAlign: left
+  fontSize: 1.5em
+  fontWeight: normal
+cellStyleRules: []
+
+```
+
+
+
 
 
