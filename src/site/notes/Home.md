@@ -1,26 +1,18 @@
 ---
-{"title":"Home","dg-home":"true","dg-publish":true,"permalink":"/Home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"2023-11-07T00:27:44.500+08:00","updated":"2024-01-10T16:11:28.000+08:00"}
+{"title":"Home","dg-home":"true","dg-publish":true,"permalink":"/Home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"2024-01-11T15:48:18.370+08:00","updated":"2024-01-26T11:09:28.000+08:00"}
 ---
 
-## 学习
 
-- [[3 项目/考研/考研\|考研]]
-- [[3 项目/课程/课程\|课程]]
-- [[书库\|书库]]
-- [[3 项目/比赛\|比赛]]
-- [[DIY项目\|DIY项目]]
-- 
-## 搜集or网页
+`button-lubw`|`button-mw1a`|`button-mppc`|`button-c64k`|
 
-- [[2 资源/书签/书签\|书签]]
-- [[2 资源/b站收藏/B站收藏\|B站收藏]]
-
+<p><span> 您已使用 <em>Obsidian</em> 384 天，共创建 41 篇笔记、7 个标签</span></p>
+---
 
 ```contributionGraph
 title: Contributions
 graphType: calendar
 query: '""'
-days: 180
+days: 90
 startOfWeek: 0
 showCellRuleIndicators: true
 titleStyle:
@@ -30,8 +22,6 @@ titleStyle:
 cellStyleRules: []
 
 ```
-
-
 
 
 
